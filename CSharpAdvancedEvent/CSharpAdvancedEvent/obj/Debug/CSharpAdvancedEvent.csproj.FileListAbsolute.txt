@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\CSharpAdvancedEvent\bin\Debug\CSharpAdvancedEvent.exe.config
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\CSharpAdvancedEvent\bin\Debug\CSharpAdvancedEvent.exe
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\CSharpAdvancedEvent\bin\Debug\CSharpAdvancedEvent.pdb
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\CSharpAdvancedEvent\obj\Debug\CSharpAdvancedEvent.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\CSharpAdvancedEvent\obj\Debug\CSharpAdvancedEvent.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\CSharpAdvancedEvent\obj\Debug\CSharpAdvancedEvent.exe
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\CSharpAdvancedEvent\obj\Debug\CSharpAdvancedEvent.pdb

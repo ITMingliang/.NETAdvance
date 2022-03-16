@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced\CSharpAdvanced\bin\Debug\CSharpAdvanced.exe.config
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced\CSharpAdvanced\bin\Debug\CSharpAdvanced.exe
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced\CSharpAdvanced\bin\Debug\CSharpAdvanced.pdb
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced\CSharpAdvanced\obj\Debug\CSharpAdvanced.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced\CSharpAdvanced\obj\Debug\CSharpAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced\CSharpAdvanced\obj\Debug\CSharpAdvanced.exe
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced\CSharpAdvanced\obj\Debug\CSharpAdvanced.pdb
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced - 副本\CSharpAdvanced\bin\Debug\CSharpAdvanced.exe.config
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced - 副本\CSharpAdvanced\bin\Debug\CSharpAdvanced.exe
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced - 副本\CSharpAdvanced\bin\Debug\CSharpAdvanced.pdb
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced - 副本\CSharpAdvanced\obj\Debug\CSharpAdvanced.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced - 副本\CSharpAdvanced\obj\Debug\CSharpAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced - 副本\CSharpAdvanced\obj\Debug\CSharpAdvanced.exe
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced - 副本\CSharpAdvanced\obj\Debug\CSharpAdvanced.pdb

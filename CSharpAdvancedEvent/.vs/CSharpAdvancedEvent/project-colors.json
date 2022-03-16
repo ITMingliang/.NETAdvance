@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e80a50df-bbce-45cb-a507-b5798f41b2cd": {
+      "ProjectGuid": "e80a50df-bbce-45cb-a507-b5798f41b2cd",
+      "DisplayName": "EventDelegate",
+      "ColorIndex": 0
+    },
+    "1f869061-f2e6-480e-808b-58a45c1d6b10": {
+      "ProjectGuid": "1f869061-f2e6-480e-808b-58a45c1d6b10",
+      "DisplayName": "StudentEvent",
+      "ColorIndex": 1
+    },
+    "7ac4e16c-448b-4af1-9d15-2222a6b36349": {
+      "ProjectGuid": "7ac4e16c-448b-4af1-9d15-2222a6b36349",
+      "DisplayName": "CSharpAdvancedEvent",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

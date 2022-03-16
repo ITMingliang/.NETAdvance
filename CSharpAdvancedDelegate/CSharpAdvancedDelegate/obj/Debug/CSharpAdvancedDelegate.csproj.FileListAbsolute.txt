@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedDelegate\CSharpAdvancedDelegate\bin\Debug\CSharpAdvancedDelegate.exe.config
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedDelegate\CSharpAdvancedDelegate\bin\Debug\CSharpAdvancedDelegate.exe
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedDelegate\CSharpAdvancedDelegate\bin\Debug\CSharpAdvancedDelegate.pdb
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedDelegate\CSharpAdvancedDelegate\obj\Debug\CSharpAdvancedDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedDelegate\CSharpAdvancedDelegate\obj\Debug\CSharpAdvancedDelegate.exe
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedDelegate\CSharpAdvancedDelegate\obj\Debug\CSharpAdvancedDelegate.pdb
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedDelegate\CSharpAdvancedDelegate\obj\Debug\CSharpAdvancedDelegate.csprojAssemblyReference.cache

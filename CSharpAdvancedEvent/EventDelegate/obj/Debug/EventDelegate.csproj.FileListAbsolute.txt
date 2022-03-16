@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\EventDelegate\bin\Debug\EventDelegate.exe.config
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\EventDelegate\bin\Debug\EventDelegate.exe
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\EventDelegate\bin\Debug\EventDelegate.pdb
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\EventDelegate\obj\Debug\EventDelegate.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\EventDelegate\obj\Debug\EventDelegate.Form1.resources
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\EventDelegate\obj\Debug\EventDelegate.Properties.Resources.resources
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\EventDelegate\obj\Debug\EventDelegate.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\EventDelegate\obj\Debug\EventDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\EventDelegate\obj\Debug\EventDelegate.exe
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvancedEvent\EventDelegate\obj\Debug\EventDelegate.pdb

@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "15349ca1-fdc5-4d6c-8780-e9a2f1692e4c": {
+      "ProjectGuid": "15349ca1-fdc5-4d6c-8780-e9a2f1692e4c",
+      "DisplayName": "Ant.DB.Interface",
+      "ColorIndex": 0
+    },
+    "803ad3c3-46b7-4a57-a384-85fede6d7790": {
+      "ProjectGuid": "803ad3c3-46b7-4a57-a384-85fede6d7790",
+      "DisplayName": "Ant.DB.MySql",
+      "ColorIndex": 1
+    },
+    "8bc2d7f4-f0bf-4645-ad5a-2acc82126f51": {
+      "ProjectGuid": "8bc2d7f4-f0bf-4645-ad5a-2acc82126f51",
+      "DisplayName": "Ant.DB.Oracle",
+      "ColorIndex": 2
+    },
+    "8550662e-832a-4311-bff0-c0802ab14925": {
+      "ProjectGuid": "8550662e-832a-4311-bff0-c0802ab14925",
+      "DisplayName": "Models",
+      "ColorIndex": 3
+    },
+    "c438330b-19cc-471d-a3c6-2558be1dbfa0": {
+      "ProjectGuid": "c438330b-19cc-471d-a3c6-2558be1dbfa0",
+      "DisplayName": "Ant.DB.SQLServer",
+      "ColorIndex": 4
+    },
+    "9570e36b-b420-4cb7-8557-03978ec26de0": {
+      "ProjectGuid": "9570e36b-b420-4cb7-8557-03978ec26de0",
+      "DisplayName": "ReflectionAndMVC",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "1f76499f-c07a-450d-9860-19951fbef0cf": {
+      "ProjectGuid": "1f76499f-c07a-450d-9860-19951fbef0cf",
+      "DisplayName": "MyReflection",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

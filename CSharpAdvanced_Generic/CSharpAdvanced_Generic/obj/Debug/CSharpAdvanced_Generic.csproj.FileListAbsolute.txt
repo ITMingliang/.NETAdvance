@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced_Generic\CSharpAdvanced_Generic\bin\Debug\CSharpAdvanced_Generic.exe.config
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced_Generic\CSharpAdvanced_Generic\bin\Debug\CSharpAdvanced_Generic.exe
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced_Generic\CSharpAdvanced_Generic\bin\Debug\CSharpAdvanced_Generic.pdb
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced_Generic\CSharpAdvanced_Generic\obj\Debug\CSharpAdvanced_Generic.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced_Generic\CSharpAdvanced_Generic\obj\Debug\CSharpAdvanced_Generic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced_Generic\CSharpAdvanced_Generic\obj\Debug\CSharpAdvanced_Generic.exe
+C:\Users\Administrator\Desktop\奇艺教程\C#语法进阶\CSharpAdvanced_Generic\CSharpAdvanced_Generic\obj\Debug\CSharpAdvanced_Generic.pdb
